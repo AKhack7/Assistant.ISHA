@@ -1,1 +1,11 @@
-## code
+pyttsx3==2.91
+speechrecognition==3.10.0
+pyautogui==0.9.54
+psutil==5.9.8
+pywhatkit==5.4
+opencv-python==4.9.0.80
+numpy==1.24.3
+requests==2.31.0
+sympy==1.12
+webdriver-manager==4.0.1
+selenium==4.15.2
