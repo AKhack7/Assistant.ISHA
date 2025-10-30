@@ -1,1 +1,6 @@
-## code
+__pycache__/
+*.pyc
+isha_assistant.log
+weather_cache.txt
+*.mp3
+*.jpg
